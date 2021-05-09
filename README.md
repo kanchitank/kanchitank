@@ -14,15 +14,22 @@
 
 Here are some ideas to get you started: -->
 
-I am Kanchi Tank. My main interest lies in Data Science, AI and Machine Learning. I also have knowledge of web designing.   
+I am Kanchi Tank. I am a budding Data Scientist, ML Engineer, and also, a UX Designer. My main interest lies in Data Science, Machine Learning, and Software Engineering.   
 
-- 🔭 I’m currently working on real-time Data Science projects.
-- 🌱 I’m currently learning **Computer Vision**.
-- 👯 I’m looking to collaborate on any **Data Science** or **AI** project.
-- 💬 Ask me about front-end coding languages, SQL or ML.
+- 🔭 I’m currently working on real-world Data Science projects.
+
+- 🌱 I’m currently learning **best practices for Open Source**.
+
+- 👯 I’m looking to collaborate on any **Open Source**, **Data Science/ML** or **Software Engineering** project.
+
+- 💬 Ask me about front-end technologies, Python, UI/UX, SQL or ML.
+
+- 😄 **Pronouns:** she/her
+
 - 📫 **How to reach me**: Contact me directly on this mail <a href="mailto:kanchi.tank@gmail.com">kanchi.tank@gmail.com</a>.
+
 - ⚡ **Fun fact**: I can work without music.
-<!-- - 😄 Pronouns: -->
+
 > ***Hard work betrays none//***
 
 ![](https://komarev.com/ghpvc/?username=kanchitank&color=blueviolet&label=Visitors)
