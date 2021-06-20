@@ -16,6 +16,8 @@ Here are some ideas to get you started: -->
 
 I am Kanchi Tank. I am a budding Data Scientist, ML Engineer, and also, a UX Designer. My main interest lies in Data Science, Machine Learning, and Software Engineering.   
 
+- 📝 <a href="https://drive.google.com/file/d/1zHg5a5Vg92IEQjamxDyr2AiRaXWqucfn/view?usp=sharing">Resume</a>
+ 
 - 🔭 I’m currently working on real-world Data Science projects.
 
 - 🌱 I’m currently learning **best practices for Open Source**.
