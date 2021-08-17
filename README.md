@@ -4,8 +4,10 @@
 [<img src = "https://raw.githubusercontent.com/kanchitank/kanchitank/master/icons/hackerrank_icon1.png" height="40">](https://www.hackerrank.com/kanchitank) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src = "https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" height="40">](https://www.hackerearth.com/@kanchitank) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src = "https://www.graphicdesignforum.com/uploads/default/original/2X/0/0e58f26a6dd982e7f04d1286defd4320e6d6153b.jpeg" height="40">](https://medium.com/@kanchitank) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="40">](https://www.kaggle.com/kanchitank) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src = "https://raw.githubusercontent.com/kanchitank/kanchitank/master/icons/gmail_icon.png" height="40">](mailto:kanchi.tank@gmail.com)
+
+<!-- [<img src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="40">](https://www.kaggle.com/kanchitank) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+
 
 ### Hey there 👋🏻
 
