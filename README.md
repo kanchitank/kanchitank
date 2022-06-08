@@ -22,9 +22,9 @@ I am Kanchi Tank. I am a budding Data Scientist, ML Engineer, and also, a UX Des
  
 - 🔭 I’m currently working on real-world Data Science projects.
 
-- 🌱 I’m currently learning **best practices for Open Source**.
+- 📕 I’m currently reading **"An Introduction to Statistical Learning: with Applications in R"** book.
 
-- 👯 I’m looking to collaborate on any **Open Source**, **Data Science/ML** or **Software Engineering** project.
+- 👯 I’m looking to collaborate on any **Data Science/ Machine Learning** or **Software Engineering** project.
 
 - 💬 Ask me about front-end technologies, Python, UI/UX, SQL or ML.
 
