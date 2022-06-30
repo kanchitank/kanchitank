@@ -10,8 +10,8 @@
 </p>
 <hr/>
 <p align="center">
-  <img height= "180" src="https://github-readme-stats.vercel.app/api?username=kanchitank&theme=tokyonight&show_icons=true&include_all_commits=true" alt="kanchitank"/>
-  <img height= "180" src="https://github-readme-streak-stats.herokuapp.com?user=kanchitank&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="kanchitank"/>
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=kanchitank&theme=tokyonight&show_icons=true&include_all_commits=true" alt="kanchitank"/>
+  <img height= "150" src="https://github-readme-streak-stats.herokuapp.com?user=kanchitank&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="kanchitank"/>
 </p>
 <hr/>
 <h3 align="center">Tech Stack</h3>
